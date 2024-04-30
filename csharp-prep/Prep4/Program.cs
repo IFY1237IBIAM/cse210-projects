@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        // WE ARE SUMMING HERE
          List<int> numbers = new List<int>();
         
     
